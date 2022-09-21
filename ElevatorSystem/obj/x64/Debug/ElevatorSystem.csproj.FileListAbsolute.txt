@@ -1,0 +1,37 @@
+E:\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe.config
+E:\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe
+E:\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.pdb
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csprojAssemblyReference.cache
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Form1.resources
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Properties.Resources.resources
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csproj.GenerateResource.cache
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csproj.CoreCompileInputs.cache
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.exe
+E:\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.pdb
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Form1.resources
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Properties.Resources.resources
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csproj.GenerateResource.cache
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.exe
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.pdb
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe.config
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.pdb
+C:\Users\1811726\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csprojResolveAssemblyReference.cache
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe.config
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.pdb
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csprojResolveAssemblyReference.cache
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Form1.resources
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Properties.Resources.resources
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csproj.GenerateResource.Cache
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.exe
+F:\1718855AssignmentOne abdul\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.pdb
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe.config
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.exe
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\bin\x64\Debug\ElevatorSystem.pdb
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csprojAssemblyReference.cache
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Form1.resources
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.Properties.Resources.resources
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.csproj.GenerateResource.cache
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.exe
+C:\Users\Uzoci\Desktop\ElevatorSystem\ElevatorSystem\obj\x64\Debug\ElevatorSystem.pdb
